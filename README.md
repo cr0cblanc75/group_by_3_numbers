@@ -8,6 +8,6 @@ ____________
 
                                                  *** IMPORTANT ***
 
- - Ce programme a été conçut pour tourner sur des appareils éléctroniques de la même capacité en mémoire vive que la capsule **Apollo 11**.
+ - Ce programme a été conçut pour tourner sur des appareils éléctroniques de la même capacité en mémoire vive que la capsule `Apollo 11`.
 
  - Plus simplement ce programme n'est beau que si vous l'éxecutez avec `au maximum 4 Ko de RAM`
