@@ -1,4 +1,4 @@
-# Group_by_3_numbers
+# Group_by_3_numbers ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 Groupe par 3 les chiffres d'un nombre, en mettant entre des espaces pour une lisibilité optimale !
 
