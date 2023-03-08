@@ -6,7 +6,7 @@ Groupe par 3 les chiffres d'un nombre, en mettant entre des espaces pour une lis
 
 ____________
 
-                                                            *** IMPORTANT ***
+                                                 *** IMPORTANT ***
 
  - Ce programme a été conçut pour tourner sur des appareils éléctroniques de la même capacité en mémoire vive que la capsule **Apollo 11**.
 
